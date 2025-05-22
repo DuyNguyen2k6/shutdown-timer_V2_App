@@ -1,21 +1,28 @@
-# Shutdown Timer V2 App
+# ⏲ Shutdown Timer V2 – Windows App
 
-A desktop application for Windows that lets you schedule system shutdown, restart, or sleep at a specified time, with customizable warnings and easy cancellation. Built with Python and PyQt6.
-
----
-
-## Features
-
-* **Schedule Actions**: Pick a specific date and time to shutdown, restart, or put your PC to sleep.
-* **Countdown Timer**: Set a countdown in minutes or hours before triggering the action.
-* **Custom Warnings**: Show one or more warning messages with configurable intervals before execution.
-* **Cancel/Abort**: Easily cancel the scheduled action at any time.
-* **System Tray Integration**: Minimize to tray with status icon and context menu.
-* **Lightweight & Portable**: Single-file executable using PyInstaller.
+**Shutdown Timer V2** là ứng dụng đơn giản nhưng mạnh mẽ giúp bạn hẹn giờ **tắt máy, khởi động lại, hoặc ngủ đông** máy tính Windows. Giao diện thân thiện và các tính năng thông minh giúp bạn dễ dàng quản lý thời gian sử dụng thiết bị.
 
 ---
 
-## Installation
+## 🔧 Tính năng nổi bật
+
+- ⏰ **Hẹn giờ tắt máy / khởi động lại / ngủ đông**
+- ❌ **Hủy lệnh đã đặt** bất kỳ lúc nào
+- 🛑 **Cảnh báo trước khi hành động diễn ra**
+- 🧠 **Giao diện dễ sử dụng**, tối ưu cho mọi đối tượng
+- 🌙 **Chạy nền nhẹ nhàng**, không ảnh hưởng hiệu năng
+
+---
+
+## 📦 Cài đặt
+
+### 🔹 Bước 1: Tải file `.exe` (khuyên dùng)
+
+1. Truy cập [Releases](https://github.com/DuyNguyen2k6/shutdown-timer_V2_App/releases)
+2. Tải file `ShutdownTimer.exe` về
+3. Chạy trực tiếp, không cần cài đặt
+
+### 🔹 Bước 2: Cài python và thư viện 
 
 1. Tải xuống python https://www.python.org/downloads/release/python-3133/
 
